@@ -8,7 +8,7 @@
   <br />
   <br />
   <a href="https://github.com/imanudinsh">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanudinsh&hide=CSS&theme=algolia" style="max-width: 100%; height: auto;"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanudinsh&hide=CSS&theme=algolia&count_private=true&private_token=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" style="max-width: 100%; height: auto;"/>
   </a>
 </div>
 
