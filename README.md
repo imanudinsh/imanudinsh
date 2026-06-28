@@ -1,4 +1,4 @@
-# Hi, I am Imanudin <img src="hi.gif" width="30px" height="30px">
+# Hi <img src="hi.gif" width="30px" height="30px">
 
 ## 📊 GitHub Stats
 <div>
